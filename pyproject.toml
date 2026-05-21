@@ -19,6 +19,7 @@ dependencies = [
     "pyamqp>=0.1.0.7",
     "pydantic>=2.13.3",
     "pydantic-settings>=2.14.0",
+    "python-dateutil>=2.9.0.post0",
     "python-dotenv>=1.2.2",
     "python-jose>=3.5.0",
     "python-multipart>=0.0.26",
